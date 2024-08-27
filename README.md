@@ -18,4 +18,5 @@
   - https://www.assured-systems.com/us/, https://www.assured-systems.com/us/product/atex-certified-din-mount-intel-atom-e3827-fanless-computer-system/
 - wifi
   - https://www.extronics.com/product/iwap107-zone-1-ap-system/, https://www.athex.eu/en/product-category/explosion-safe-products/atex-wireless-communication/
-  
+- battery packs (custom production)
+  - https://www.enix-power-solutions.com/custom-battery-packs/ 
