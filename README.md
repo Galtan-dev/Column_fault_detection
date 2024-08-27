@@ -1,7 +1,8 @@
 ## Column_fault_detection
 - repository for informaton about detection of fault of chemical column
 ## initial search
-- microphone - https://www.pcb.com/sensors-for-test-measurement/acoustics/specialty-microphones/hazardous-approved-microphone-preamplifier-ex378b02
+- microphone
+  https://www.pcb.com/sensors-for-test-measurement/acoustics/specialty-microphones/hazardous-approved-microphone-preamplifier-ex378b02
 - ATEX definition - https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0034
 - koaxial cable - https://www.oc2me.com/atex-coaxial-connectors-2/
 - enclosure - https://www.eabel.com/enclosure-ratings/atex-enclosures/
