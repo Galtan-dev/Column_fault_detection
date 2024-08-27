@@ -16,6 +16,7 @@
   - https://www.pepperl-fuchs.com/czech_republic/cs/index.htm,
   - https://www.siemens.com/global/en/products/automation/industrial-controls/media/atex.html,
   - https://www.assured-systems.com/us/, https://www.assured-systems.com/us/product/atex-certified-din-mount-intel-atom-e3827-fanless-computer-system/
+  - https://www.assured-systems.com/axiomtek-ico300-83m-intel-atom-atexc1d2-embedded-pc-w-6x-com3x-lan-16-dio/
 - wifi
   - https://www.extronics.com/product/iwap107-zone-1-ap-system/, https://www.athex.eu/en/product-category/explosion-safe-products/atex-wireless-communication/
 - battery packs (custom production)
